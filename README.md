@@ -1,6 +1,5 @@
-# exercicio2-aula07
 
-LISTA DE EXERCÍCIOS 002 
+<h1>📝Exercícios Sequenciais 002 </h1>
 
 1 - Faça um programa que mostre a mensagem "Alô mundo" na tela.
 
